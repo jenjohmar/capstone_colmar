@@ -1,0 +1,86 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+.topbar {
+    display: flex;
+    width: 100%;
+    height: 64px;
+    background-color: white;
+    align-items: center;
+}
+
+.topbar h3 {
+    display: inline-block;
+    width: 800px;
+    font-size: 18px;
+}
+
+.colmar {
+    font-weight: bold;
+    color: #29292B;
+}
+
+.academy {
+    font-weight: lighter;
+    color: grey;
+}
+#icon {
+    margin-left: 24px;
+    height: 32px;
+    width: auto;
+}
+
+nav {
+    width: 100%;
+    height: 64px;
+}
+
+.topnav {
+    float: right;
+    margin-right: 24px;
+}
+
+.topnav a {
+    margin-left: 16px;
+    text-decoration: none;
+    color: #29292B;
+}
+
+.block-1 {
+    width: 100%;
+    background-color:lightgray;
+    display: flex;
+    padding: 32px 24px;
+    box-sizing: border-box;
+}
+
+.block-1-right {
+    align-items: center;
+    justify-content: center;
+}
+
+.block-1-right h1 {
+    font-weight: 1000;
+    font-size: 40px;
+    color: #29292B;
+    display: flex;
+    
+}
+
+.block-1-right p {
+    color: #29292B;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1.5em;
+
+}
+.block-1-left {
+    width: 60%;
+    padding-right: 24px;
+}
+
+#banner {
+    width: 100%;
+    height: auto;
+    
+}
